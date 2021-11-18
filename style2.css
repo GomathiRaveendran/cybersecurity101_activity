@@ -1,0 +1,15 @@
+div {
+  margin: 30vh 5.5vw;
+  display: inline-block;
+  opacity: 0.5;
+  font-size: 5vw;
+}
+div a {
+  text-decoration: none;
+}
+
+div:hover {
+  opacity: 1;
+  font-size: 6vw;
+  margin: 28vh 4.8vw;
+}
